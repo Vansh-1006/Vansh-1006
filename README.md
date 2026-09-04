@@ -9,9 +9,9 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 ## 🛡️ About Me
 
 * 🔐 Focused on **Cybersecurity and Ethical Hacking**
-* 🌐 Interested in **Network Security and System Security**
-* 🐍 Building automation and security-focused tools with **Python**
-* 🐧 Working with **Linux and Kali Linux**
+* 🌐 Interested in **SOC and System Security**
+* 🐍 Building automation and security-focused tools
+* 🐧 Working with **Linux and Kali Linux** as required 
 * 🛠️ Exploring practical security tools and defensive techniques
 * 📚 Continuously learning and improving my cybersecurity skills
 
@@ -36,13 +36,12 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 * Wireshark
 * Nmap
 * iptables
-* Git & GitHub
 
 ---
 
 ## 🚀 What I'm Working On
 
-🔹 Developing and experimenting with cybersecurity-focused Python tools
+🔹 Developing and experimenting with cybersecurity-focused tools
 🔹 Exploring network monitoring and defensive security techniques
 🔹 Building practical projects to strengthen my understanding of real-world cybersecurity
 🔹 Continuously expanding my knowledge of Linux, networking, and system security
