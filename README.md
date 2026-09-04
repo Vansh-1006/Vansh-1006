@@ -1,4 +1,4 @@
- 👋 Hi, I'm Vansh Chauhan
+# 👋 Hi, I'm Vansh Chauhan
 
 🔐 **Aspiring Cybersecurity Professional | Ethical Hacking & Network Security Enthusiast | Python Automation**
 
@@ -6,7 +6,7 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 
 ---
 
- 🛡️ About Me
+## 🛡️ About Me
 
 * 🔐 Focused on **Cybersecurity and Ethical Hacking**
 * 🌐 Interested in **Network Security and System Security**
@@ -17,7 +17,7 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 
 ---
 
- 💻 Technical Interests
+## 💻 Technical Interests
 
 **Cybersecurity**
 
@@ -40,7 +40,7 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 
 ---
 
- 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
 🔹 Developing and experimenting with cybersecurity-focused Python tools
 🔹 Exploring network monitoring and defensive security techniques
@@ -49,17 +49,14 @@ I'm passionate about cybersecurity, ethical hacking, network security, and build
 
 ---
 
-🎯 Current Goal
+## 🎯 Current Goal
 
 To build strong practical expertise in cybersecurity through hands-on projects, continuous learning, and responsible security research.
 
 ---
 
- 📫 Connect With Me
- 
- E-Mail: chauhanvansh2006@gmail.com
- ContactNo: +91 7990366252
+## 📫 Connect With Me
 
 Feel free to explore my repositories and follow my cybersecurity learning journey.
 
-> "Security is not a product, but a process."
+> *"Security is not a product, but a process."*
