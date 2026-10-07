@@ -1,4 +1,4 @@
-# 👋 Hey There, I'm Vansh Chauhan
+# Hi, I'm Vansh Chauhan
 
 🔐 **Aspiring Cybersecurity Professional | Ethical Hacking & Network Security Enthusiast | Python Automation**
 
